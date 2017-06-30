@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+</keymap>

@@ -1,0 +1,173 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33whoosh/bin/python" value="true" />
+        <entry key="$USER_HOME$/dev/py33bookish/bin/python" value="true" />
+        <entry key="$USER_HOME$/env/mex/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py27whoosh/bin/python" value="true" />
+        <entry key="$USER_HOME$/env/py35bookish/bin/python" value="true" />
+        <entry key="$USER_HOME$/env/py35whoosh/bin/python" value="true" />
+        <entry key="$USER_HOME$/env/py35whoosh/bin/python3.5" value="true" />
+        <entry key="$USER_HOME$/env/py36whoosh/bin/python" value="true" />
+        <entry key="$USER_HOME$/py27whoosh/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="true" />
+        <entry key="/usr/local/bin/python3.3" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/py33bookish/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/mex/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py27whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py35bookish/bin/python" value="true" />
+        <entry key="$USER_HOME$/env/py35whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py35whoosh/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/env/py36whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/py27whoosh/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
+        <entry key="/usr/local/bin/python3.3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/py33bookish/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/mex/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py27whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py35bookish/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py35whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/env/py35whoosh/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/py27whoosh/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
+        <entry key="/usr/local/bin/python3.3" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RailsDataSourcesUpdater">
+    <driver class="com.mysql.jdbc.Driver">
+      <file url="file://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/mysql-connector-license.txt" />
+      <file url="jar://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/mysql-connector-java-5.1.18-bin.jar!/" />
+    </driver>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="TestRunner" />
+        <option value="VCS Commit" />
+      </set>
+    </option>
+  </component>
+  <component name="VFSTestFrameworkListener">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py27whoosh/bin/python" value="true" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33bookish/bin/python3.3" value="true" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33whoosh/bin/python" value="true" />
+        <entry key="/usr/local/bin/python" value="true" />
+        <entry key="/usr/local/bin/python3.3" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py27whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33bookish/bin/python3.3" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33whoosh/bin/python" value="false" />
+        <entry key="/usr/local/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py27whoosh/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33bookish/bin/python3.3" value="false" />
+        <entry key="$USER_HOME$/Dropbox/workspace/env/py33whoosh/bin/python" value="false" />
+        <entry key="/usr/local/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.3" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
+</application>

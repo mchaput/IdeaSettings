@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="template" type="Jinja2" />
+      <mapping ext="jinja" type="Jinja2" />
+      <mapping ext="tpl" type="Mako" />
+      <mapping ext="grammar" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

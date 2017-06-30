@@ -1,0 +1,11 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+  </component>
+</application>

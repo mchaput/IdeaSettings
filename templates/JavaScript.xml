@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="iter" value="for each (var $VAR$ in $ARRAY$) {&#10;  $END$&#10;}" description="Iterate (for each..in)" toReformat="true" toShortenFQNames="true">
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array &quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

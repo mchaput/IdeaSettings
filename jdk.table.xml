@@ -1,0 +1,225 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.2 (/usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/bin/python3.4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.2" />
+      <homePath value="/usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/bin/python3.4" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/setuptools-12.0.5-py3.4.egg!/" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pip-6.0.8-py3.4.egg" />
+            <root type="simple" url="jar:///usr/local/lib/python3.4/site-packages/setuptools-12.0.5-py3.4.egg!/" />
+            <root type="simple" url="file:///usr/local/lib/python3.4/site-packages/pip-6.0.8-py3.4.egg" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/1591167130" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/env/py35whoosh" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/env/py35whoosh/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/130201115" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/workspace/whoosh" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
+      <homePath value="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/776880377" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/py27whoosh" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/py27whoosh/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/py27whoosh/lib/python3.5/site-packages/setuptools-18.1-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/py27whoosh/lib/python3.5/site-packages/pip-7.1.0-py3.5.egg" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/py27whoosh/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-251338310" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Sync/workspace/whoosh_clean" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/env/py27whoosh" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/env/py27whoosh/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/env/py27whoosh/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/env/py27whoosh/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/env/py27whoosh/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-1019471720" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Sync/workspace/whoosh_clean" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/env/py35whoosh (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/env/py35whoosh/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/env/py35whoosh/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/465999167" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/env/py35bookish" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/env/py35bookish/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/env/py35bookish/lib/python3.5/site-packages/setuptools-18.1-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/env/py35bookish/lib/python3.5/site-packages/pip-7.1.0-py3.5.egg" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/env/py35bookish/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1755941392" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/src/houdini/help/bookish" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/env/py36whoosh" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/env/py36whoosh/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/env/py36whoosh/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/env/py36whoosh/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/env/py36whoosh/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-866871238" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Sync/workspace/whoosh" />
+    </jdk>
+  </component>
+</application>

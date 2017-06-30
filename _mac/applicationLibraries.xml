@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="jQuery-2.0.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/PyCharm20/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/PyCharm20/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
+

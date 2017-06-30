@@ -1,0 +1,23 @@
+<templateSet group="user">
+  <template name="class" value="class $class$($object$):&#10;    &quot;&quot;&quot;&#10;    $docstring$&#10;    &quot;&quot;&quot;&#10;    &#10;    def __init__(self):&#10;        pass$END$" description="Class body" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="class" alwaysStopAt="true" />
+    <variable name="object" expression="" defaultValue="object" alwaysStopAt="true" />
+    <variable name="docstring" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="def" value="def $method$(self$args$):&#10;    &quot;&quot;&quot;&#10;    $docstring$&#10;    &quot;&quot;&quot;&#10;    &#10;    pass$END$" description="Method definition" toReformat="false" toShortenFQNames="true">
+    <variable name="method" expression="" defaultValue="method" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="docstring" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="main" value="if __name__ == &quot;__main__&quot;:&#10;    $END$&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
