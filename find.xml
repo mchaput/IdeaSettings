@@ -16,7 +16,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.rst</mask>
+      <mask>*.mako</mask>
+      <mask>*.jinja2</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>

@@ -12,6 +12,13 @@
       </entry>
     </option>
   </component>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -20,9 +27,17 @@
         </PlaceSettings>
       </entry>
       <entry key="CommitDialog">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="true" />
+          <option name="READ_ONLY_LOCK" value="false" />
+        </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Merge">
         <PlaceSettings />
       </entry>
     </option>

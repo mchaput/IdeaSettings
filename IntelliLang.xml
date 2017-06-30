@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="LanguageInjectionConfiguration">
     <option name="INSTRUMENTATION" value="ASSERT" />
@@ -8,4 +7,3 @@
     <option name="RESOLVE_REFERENCES" value="true" />
   </component>
 </application>
-
