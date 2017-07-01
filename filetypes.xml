@@ -3,9 +3,11 @@
     <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="template" type="Jinja2" />
-      <mapping ext="grako" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="jinja" type="Jinja2" />
+      <mapping ext="tpl" type="Mako" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="grammar" type="PLAIN_TEXT" />
+      <mapping ext="grako" type="PLAIN_TEXT" />
       <mapping ext="bkgrammar" type="Bookish grammar file" />
     </extensionMap>
   </component>
