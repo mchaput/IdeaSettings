@@ -16,10 +16,11 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.jinja2</mask>
-      <mask>*.py</mask>
       <mask>*.</mask>
       <mask>*.mak</mask>
       <mask>*.mako</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
