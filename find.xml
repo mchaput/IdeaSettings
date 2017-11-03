@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.jinja2" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,13 +16,11 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.</mask>
       <mask>*.mak</mask>
       <mask>*.mako</mask>
-      <mask>*.jinja</mask>
-      <mask>*.jinja2</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.jinja2</mask>
     </recentFileMasks>
   </component>
 </application>
