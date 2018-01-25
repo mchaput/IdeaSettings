@@ -9,6 +9,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="grako" type="PLAIN_TEXT" />
+      <mapping ext="config" type="Python" />
       <mapping ext="bkgrammar" type="Bookish grammar file" />
     </extensionMap>
   </component>
