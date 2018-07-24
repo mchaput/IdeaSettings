@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jinja2" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,8 +17,8 @@
       <mask>*.mak</mask>
       <mask>*.mako</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>*.jinja2</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
