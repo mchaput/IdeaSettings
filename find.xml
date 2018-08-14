@@ -1,24 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'whoosh'" />
+    <option name="defaultScopeName" value="Project 'whoosh'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'whoosh'" />
     <option name="FILE_MASK" value="*.py" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mak</mask>
-      <mask>*.mako</mask>
-      <mask>*.p</mask>
-      <mask>*.jinja2</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>
