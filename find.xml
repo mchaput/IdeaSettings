@@ -12,10 +12,11 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.mako</mask>
-    <mask>*.jinja2</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
+    <mask>*.txt</mask>
+    <mask>*.jinja2</mask>
     <mask>*.py</mask>
   </component>
 </application>
