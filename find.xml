@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.jinja2" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,8 +17,8 @@
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
-    <mask>*.jinja2</mask>
     <mask>*.txt</mask>
     <mask>*.py</mask>
+    <mask>*.jinja2</mask>
   </component>
 </application>
