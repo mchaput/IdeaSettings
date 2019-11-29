@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.mako" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,7 +11,6 @@
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.mako</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.txt</mask>
@@ -20,5 +19,6 @@
     <mask>*.jinja2</mask>
     <mask>*</mask>
     <mask>*.py</mask>
+    <mask>*.mako</mask>
   </component>
 </application>
