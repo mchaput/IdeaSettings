@@ -1,8 +1,11 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Fira Code Retina" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
 </application>
