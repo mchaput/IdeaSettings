@@ -1,6 +1,17 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -8,4 +19,7 @@
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+  </component>
 </application>
