@@ -2,7 +2,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="253033" />
+    <option name="CARET_ROW_COLOR" value="2f393c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -509,13 +509,14 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PY.DECORATOR">
+    <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="729689" />
+        <option name="FOREGROUND" value="869aae" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
