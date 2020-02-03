@@ -487,6 +487,12 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="MAKO.SUBSTITUTION">
+      <value>
+        <option name="FOREGROUND" value="78a7bc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
