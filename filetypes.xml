@@ -3,8 +3,8 @@
     <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="qss" type="CSS" />
-      <mapping ext="template" type="Jinja2" />
       <mapping ext="jinja" type="Jinja2" />
+      <mapping ext="template" type="Jinja2" />
       <mapping ext="tpl" type="Mako" />
       <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="grako" type="PLAIN_TEXT" />
