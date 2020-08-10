@@ -14,7 +14,6 @@
     <mask>*.php</mask>
     <mask>*.txt</mask>
     <mask>*.mako</mask>
-    <mask>*.css</mask>
     <mask>nodegraph*.py</mask>
     <mask>*.jinja</mask>
     <mask>*.bkgrammar</mask>
@@ -22,5 +21,6 @@
     <mask>*.jinja2</mask>
     <mask>*</mask>
     <mask>*.py</mask>
+    <mask>*.css</mask>
   </component>
 </application>
