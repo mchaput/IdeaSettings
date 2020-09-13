@@ -90,7 +90,7 @@
       <option name="JSX_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="link:favicon" value="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;$END$favicon.ico&quot;/&gt;" description="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;...favicon.ico&quot;&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="link:favicon" value="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;$END$favicon.ico&quot;/&gt;" description="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;...favicon.ico&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JSP" value="true" />
     </context>
