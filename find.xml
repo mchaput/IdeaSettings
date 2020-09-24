@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +15,6 @@
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
-    <mask>*.txt</mask>
     <mask>*.mako</mask>
     <mask>nodegraph*.py</mask>
     <mask>*.jinja</mask>
@@ -23,5 +24,6 @@
     <mask>*</mask>
     <mask>*.jinja2</mask>
     <mask>*.py</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
