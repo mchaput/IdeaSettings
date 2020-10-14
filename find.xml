@@ -3,11 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jinja2" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
@@ -19,8 +19,9 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*</mask>
-    <mask>*.jinja2</mask>
     <mask>*.txt</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
+    <mask>*.jinja2</mask>
   </component>
 </application>
