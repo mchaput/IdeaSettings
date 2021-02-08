@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,11 +17,11 @@
     <mask>*.jinja</mask>
     <mask>*.bkgrammar</mask>
     <mask>*.scss</mask>
-    <mask>*.css</mask>
     <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.jinja2</mask>
     <mask>*.txt</mask>
     <mask>*.py</mask>
+    <mask>*.css</mask>
   </component>
 </application>
