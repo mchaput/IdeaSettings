@@ -9,6 +9,7 @@
       <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="grako" type="PLAIN_TEXT" />
       <mapping pattern="PythonModule" type="Python" />
+      <mapping pattern="ViewerStateModule" type="Python" />
       <mapping ext="config" type="Python" />
       <mapping ext="pypanel" type="XML" />
       <mapping ext="bkgrammar" type="Bookish grammar file" />
