@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="d4addcf3-d3da-42e5-a665-cb9134a2844b" name="mchaput">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="mchaput" />
     <option name="AUTH_TYPE" value="BASIC" />
