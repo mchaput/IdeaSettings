@@ -23,6 +23,10 @@
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
