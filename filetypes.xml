@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*$py.class;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping ext="qss" type="CSS" />
       <mapping ext="jinja" type="Jinja2" />
@@ -8,8 +8,8 @@
       <mapping ext="tpl" type="Mako" />
       <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="grako" type="PLAIN_TEXT" />
-      <mapping pattern="PythonModule" type="Python" />
       <mapping pattern="ViewerStateModule" type="Python" />
+      <mapping pattern="PythonModule" type="Python" />
       <mapping ext="config" type="Python" />
       <mapping ext="pypanel" type="XML" />
       <mapping ext="bkgrammar" type="Bookish grammar file" />
