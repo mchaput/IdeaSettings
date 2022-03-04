@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.txt" />
+    <option name="FILE_MASK" value="*.jinja2" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -15,7 +15,6 @@
     <mask>*.jinja</mask>
     <mask>*.bkgrammar</mask>
     <mask>*.js</mask>
-    <mask>*.jinja2</mask>
     <mask>*</mask>
     <mask>*.scss</mask>
     <mask>*.css</mask>
@@ -25,5 +24,6 @@
     <mask>*.config</mask>
     <mask>*.py</mask>
     <mask>*.txt</mask>
+    <mask>*.jinja2</mask>
   </component>
 </application>
