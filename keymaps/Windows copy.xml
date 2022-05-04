@@ -1,4 +1,11 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="ctrl l" />
