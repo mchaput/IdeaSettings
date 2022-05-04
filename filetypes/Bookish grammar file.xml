@@ -1,4 +1,4 @@
-<filetype binary="false" description="Bookish grammar file" name="Bookish grammar file">
+<filetype binary="false" default_extension="bkgrammar" description="Bookish grammar file" name="Bookish grammar file">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="#" />
