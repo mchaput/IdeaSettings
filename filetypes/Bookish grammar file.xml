@@ -1,0 +1,21 @@
+<filetype binary="false" default_extension="bkgrammar" description="Bookish grammar file" name="Bookish grammar file">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="*;+;:;=;?;@" ignore_case="false" />
+    <keywords2 keywords="-&gt;;|" />
+    <keywords3 keywords="import" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="bkgrammar" />
+  </extensionMap>
+</filetype>

@@ -1,9 +1,28 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.mako</mask>
+    <mask>nodegraph*.py</mask>
+    <mask>*.jinja</mask>
+    <mask>*.bkgrammar</mask>
+    <mask>*.js</mask>
+    <mask>*</mask>
+    <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
+    <mask>*.config</mask>
+    <mask>*.jinja2</mask>
+    <mask>*.txt</mask>
     <mask>*.py</mask>
   </component>
 </application>
