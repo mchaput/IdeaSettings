@@ -3,7 +3,7 @@
     <property name="created">2020-04-20T11:07:33</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2022-06-24T11:29:51</property>
+    <property name="modified">2022-06-27T11:39:05</property>
     <property name="originalScheme">Matt's Programmer</property>
   </metaInfo>
   <colors>
@@ -334,7 +334,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="8ea6ad" />
+        <option name="FOREGROUND" value="b5d2db" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
