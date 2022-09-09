@@ -24,7 +24,7 @@
     <mask>*.config</mask>
     <mask>*.jinja2</mask>
     <mask>*.xml</mask>
-    <mask>*.py</mask>
     <mask>*.txt</mask>
+    <mask>*.py</mask>
   </component>
 </application>
