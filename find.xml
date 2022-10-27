@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.txt" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -23,7 +25,7 @@
     <mask>*.config</mask>
     <mask>*.xml</mask>
     <mask>*.jinja2</mask>
-    <mask>*.py</mask>
     <mask>*.txt</mask>
+    <mask>*.py</mask>
   </component>
 </application>
