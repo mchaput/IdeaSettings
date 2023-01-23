@@ -12,6 +12,11 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="NewScratchFile" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="Uml.ShowDiff" />
