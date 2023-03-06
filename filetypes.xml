@@ -5,6 +5,7 @@
       <mapping ext="qss" type="CSS" />
       <mapping ext="jinja" type="Jinja2" />
       <mapping ext="template" type="Jinja2" />
+      <mapping ext="tpl" type="Mako" />
       <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="grako" type="PLAIN_TEXT" />
       <mapping pattern="ViewerStateModule" type="Python" />
@@ -12,7 +13,6 @@
       <mapping ext="config" type="Python" />
       <mapping ext="pypanel" type="XML" />
       <mapping ext="bkgrammar" type="Bookish grammar file" />
-      <mapping ext="tpl" type="Mako" />
     </extensionMap>
   </component>
 </application>
